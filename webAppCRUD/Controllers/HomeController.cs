@@ -9,6 +9,7 @@ namespace webAppCRUD.Controllers
 {
     public class HomeController : Controller
     {
+        //home controller 
         // GET: Home
         public ActionResult Index()
         {
